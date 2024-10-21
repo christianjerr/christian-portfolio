@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/christian-portfolio/static/css/main.1b3133ae.css",
-    "main.js": "/christian-portfolio/static/js/main.64d29061.js",
+    "main.css": "/christian-portfolio/static/css/main.1d24719b.css",
+    "main.js": "/christian-portfolio/static/js/main.82647611.js",
     "static/media/versett.png": "/christian-portfolio/static/media/versett.90a53170ba450278462f.png",
     "static/media/rakuten.png": "/christian-portfolio/static/media/rakuten.d211a5f0e592d5001f89.png",
     "static/media/carecoach.png": "/christian-portfolio/static/media/carecoach.9cee1d33b927f6d82309.png",
@@ -35,11 +35,11 @@
     "static/media/next-js.svg": "/christian-portfolio/static/media/next-js.1b2b52c044b9dcea988e68b966864c5a.svg",
     "static/media/figma.svg": "/christian-portfolio/static/media/figma.0f4098dccb2a84e24331b00bc6a8dcf8.svg",
     "index.html": "/christian-portfolio/index.html",
-    "main.1b3133ae.css.map": "/christian-portfolio/static/css/main.1b3133ae.css.map",
-    "main.64d29061.js.map": "/christian-portfolio/static/js/main.64d29061.js.map"
+    "main.1d24719b.css.map": "/christian-portfolio/static/css/main.1d24719b.css.map",
+    "main.82647611.js.map": "/christian-portfolio/static/js/main.82647611.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b3133ae.css",
-    "static/js/main.64d29061.js"
+    "static/css/main.1d24719b.css",
+    "static/js/main.82647611.js"
   ]
 }
