@@ -17,7 +17,7 @@ const Home = () => {
         <ScrollAnimation animateIn="fadeIn" duration={2.1}>
           <p className="text-[#c6bd7d] text-lg">Hi, my name is</p>
           <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
-            Christian Buarao
+            Angel Angoluan
           </h1>
           <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
             I'm a <span className=" text-[#c6bd7d]">Web Developer</span>.
@@ -46,7 +46,7 @@ const Home = () => {
             </Link>
 
             <a
-              className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-regal-brown hover:border-regal-brown w-fit"
+              className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-regal-brown hover:border-regal-brown w-[215px]"
               href={require("./resume.pdf")}
               download={"resume.pdf"}
             >
