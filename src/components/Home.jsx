@@ -37,7 +37,7 @@ const Home = () => {
           </p>
           <div className="flex gap-3 flex-col sm:flex-row">
             <Link to="work" smooth={true} duration={500}>
-              <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-regal-brown hover:border-regal-brown w-[215px]">
+              <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-regal-brown hover:border-regal-brown w-[230px]">
                 View Work
                 <span className="group-hover:rotate-90 duration-300">
                   <HiArrowNarrowRight className="ml-3 " />
@@ -46,7 +46,7 @@ const Home = () => {
             </Link>
 
             <a
-              className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-regal-brown hover:border-regal-brown w-[215px]"
+              className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-regal-brown hover:border-regal-brown w-[230px]"
               href={require("./resume.pdf")}
               download={"resume.pdf"}
             >
