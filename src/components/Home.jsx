@@ -27,7 +27,7 @@ const Home = () => {
             <TypeAnimation
               sequence={[
                 // Same substring at the start will only be typed out once, initially
-                " I've spent the last 5 years building and scaling software for some pretty cool companies.",
+                "A Web developer with 5+ years of experience in creating websites and web applications for some pretty cool companies, I strive to build visually appealing and high-performing websites.",
                 1000, // wait 1s before replacing "Mice" with "Hamsters"
               ]}
               wrapper="span"
