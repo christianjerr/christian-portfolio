@@ -20,7 +20,7 @@ const Home = () => {
             Christian Jerr Buarao
           </h1>
           <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-            I'm a <span className=" text-[#c6bd7d]">Web Developer</span>.
+            I'm a <span className=" text-[#c6bd7d]">full-stack developer</span>.
           </h2>
 
           <p className="text-white py-4 max-w-[700px] text-xl">
