@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/christian-portfolio/static/css/main.c6bec3ff.css",
-    "main.js": "/christian-portfolio/static/js/main.d7455308.js",
+    "main.js": "/christian-portfolio/static/js/main.9992249d.js",
     "static/media/resume.pdf": "/christian-portfolio/static/media/resume.2a2333bebd954eb159c8.pdf",
     "static/media/versett.png": "/christian-portfolio/static/media/versett.90a53170ba450278462f.png",
     "static/media/rakuten.png": "/christian-portfolio/static/media/rakuten.d211a5f0e592d5001f89.png",
@@ -11,10 +11,10 @@
     "static/media/reakuten_booking.png": "/christian-portfolio/static/media/reakuten_booking.9c075383614dd3b735c3.png",
     "static/media/bird.jpg": "/christian-portfolio/static/media/bird.728286a9934a8cf52284.jpg",
     "static/media/intra.png": "/christian-portfolio/static/media/intra.10a82732179fca057f39.png",
-    "static/media/access.png": "/christian-portfolio/static/media/access.9bbac7c6f3711fc0fe4b.png",
     "static/media/verizon.png": "/christian-portfolio/static/media/verizon.d986a2839b9fcdc8d9aa.png",
     "static/media/gcp.png": "/christian-portfolio/static/media/gcp.dade32d4d899f5e492e9.png",
     "static/media/jest.png": "/christian-portfolio/static/media/jest.95bffbbd80a3ba10dfa4.png",
+    "static/media/macquarie.png": "/christian-portfolio/static/media/macquarie.e8a85800211c0bd52868.png",
     "static/media/orange.png": "/christian-portfolio/static/media/orange.5b60c78292769ae92ea6.png",
     "static/media/git.png": "/christian-portfolio/static/media/git.52ffcca1c2260d3a141b.png",
     "static/media/cypress.png": "/christian-portfolio/static/media/cypress.5153805133684ed1cfe1.png",
@@ -36,10 +36,10 @@
     "static/media/figma.svg": "/christian-portfolio/static/media/figma.0f4098dccb2a84e24331b00bc6a8dcf8.svg",
     "index.html": "/christian-portfolio/index.html",
     "main.c6bec3ff.css.map": "/christian-portfolio/static/css/main.c6bec3ff.css.map",
-    "main.d7455308.js.map": "/christian-portfolio/static/js/main.d7455308.js.map"
+    "main.9992249d.js.map": "/christian-portfolio/static/js/main.9992249d.js.map"
   },
   "entrypoints": [
     "static/css/main.c6bec3ff.css",
-    "static/js/main.d7455308.js"
+    "static/js/main.9992249d.js"
   ]
 }
