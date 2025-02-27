@@ -7,6 +7,8 @@ import ReactImg from "../assets/react.png";
 import Node from "../assets/node.png";
 import FireBase from "../assets/firebase.png";
 import GitHub from "../assets/github.png";
+import generative from "../assets/generative-ai.jpg";
+import python from "../assets/python.jpg";
 import Tailwind from "../assets/tailwind.png";
 import Sass from "../assets/sass.png";
 import Bootstrap from "../assets/bootstrap.png";
@@ -42,6 +44,22 @@ const Skills = () => {
           </div>
 
           <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
+            <div className=" hover:scale-110 duration-500 flex justify-center items-center">
+              <div>
+                <img
+                  className="w-16 mx-auto"
+                  src={generative}
+                  alt="generative icon"
+                />
+                <p className="my-4">GENERATIVE AI</p>
+              </div>
+            </div>
+            <div className=" hover:scale-110 duration-500 flex justify-center items-center">
+              <div>
+                <img className="w-16 mx-auto" src={python} alt="python icon" />
+                <p className="my-4">PYTHON</p>
+              </div>
+            </div>
             <div className=" hover:scale-110 duration-500 flex justify-center items-center">
               <div>
                 <img className="w-16 mx-auto" src={HTML} alt="HTML icon" />
