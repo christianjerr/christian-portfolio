@@ -86,7 +86,8 @@ export const data = [
     desc: "",
     image: Orange,
     github: "",
-    live: "https://carecoach-demo-dot-qzqykwi-atcp-ccai.ue.r.appspot.com/",
+    // live: "https://carecoach-demo-dot-qzqykwi-atcp-ccai.ue.r.appspot.com/",
+    live: "",
     expi: [
       "Python",
       "Generative AI",
@@ -115,7 +116,8 @@ export const data = [
     desc: "",
     image: CareCoach,
     github: "",
-    live: "https://genai-ccai-carecoach-dev-dot-lsqvzja-acn-carecoach.uc.r.appspot.com/",
+    // live: "https://genai-ccai-carecoach-dev-dot-lsqvzja-acn-carecoach.uc.r.appspot.com/",
+    live: "",
     expi: [
       "Python",
       "Generative AI",
@@ -144,7 +146,8 @@ export const data = [
     desc: "",
     image: verizon,
     github: "",
-    live: "https://qzqykwi-atcp-ccai.ue.r.appspot.com/",
+    // live: "https://qzqykwi-atcp-ccai.ue.r.appspot.com/",
+    live: "",
     expi: [
       "Python",
       "Generative AI",
@@ -173,7 +176,8 @@ export const data = [
     desc: "",
     image: recruitment,
     github: "",
-    live: "https://carecoach-recruitment-dot-qzqykwi-atcp-ccai.ue.r.appspot.com/",
+    // live: "https://carecoach-recruitment-dot-qzqykwi-atcp-ccai.ue.r.appspot.com/",
+    live: "",
     expi: [
       "Python",
       "Generative AI",
@@ -202,7 +206,8 @@ export const data = [
       "Is a Generative AI Software for building simulations to train csr on mock up chat and calls customized for Macquarie",
     image: macquarie,
     github: "",
-    live: "https://macquarie-demo-ccai-carecoach-dot-qzqykwi-atcp-ccai.ue.r.appspot.com",
+    // live: "https://macquarie-demo-ccai-carecoach-dot-qzqykwi-atcp-ccai.ue.r.appspot.com",
+    live: "",
     expi: [
       "Python",
       "Generative AI",
