@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/christian-portfolio/static/css/main.c6bec3ff.css",
-    "main.js": "/christian-portfolio/static/js/main.2a6c464e.js",
+    "main.js": "/christian-portfolio/static/js/main.84d2519a.js",
     "static/media/resume.pdf": "/christian-portfolio/static/media/resume.2a2333bebd954eb159c8.pdf",
     "static/media/versett.png": "/christian-portfolio/static/media/versett.90a53170ba450278462f.png",
     "static/media/rakuten.png": "/christian-portfolio/static/media/rakuten.d211a5f0e592d5001f89.png",
@@ -37,10 +37,10 @@
     "static/media/figma.svg": "/christian-portfolio/static/media/figma.0f4098dccb2a84e24331b00bc6a8dcf8.svg",
     "index.html": "/christian-portfolio/index.html",
     "main.c6bec3ff.css.map": "/christian-portfolio/static/css/main.c6bec3ff.css.map",
-    "main.2a6c464e.js.map": "/christian-portfolio/static/js/main.2a6c464e.js.map"
+    "main.84d2519a.js.map": "/christian-portfolio/static/js/main.84d2519a.js.map"
   },
   "entrypoints": [
     "static/css/main.c6bec3ff.css",
-    "static/js/main.2a6c464e.js"
+    "static/js/main.84d2519a.js"
   ]
 }
