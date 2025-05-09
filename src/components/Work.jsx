@@ -46,16 +46,18 @@ const Work = () => {
                           <button
                             disabled
                             className="text-center rounded-lg px-4 py-3 m-2
-                     bg-white text-gray-300 font-bold text-lg"
+                     bg-white text-gray-200 font-bold text-lg"
                           >
                             Code
                           </button>
                         </a>
                         {/* eslint-disable-next-line */}
                         <a href={item.live} target="_blank">
+                          
                           <button
-                            className="text-center rounded-lg px-4 py-3 m-2
-                     bg-white text-gray-700 font-bold text-lg"
+                            disabled={!item.live}
+                            className={`text-center rounded-lg px-4 py-3 m-2
+                     bg-white ${!item.live ? "text-gray-200" : "text-black"}  font-bold text-lg`}
                           >
                             Live
                           </button>
